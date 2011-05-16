@@ -13,7 +13,7 @@ use Data::Dumper qw(Dumper);
 
 use Apache2::Const -compile => qw(HTTP_UNAUTHORIZED REDIRECT OK);
 our $aaDB;
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 sub post_login {
     my $r = shift;

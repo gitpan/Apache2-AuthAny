@@ -7,7 +7,7 @@ use Data::Dumper qw(Dumper);
 use Apache2::Const -compile => qw(OK);
 use Apache2::AuthAny::AuthUtil ();
 our $aaDB;
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 sub handler {
     my $r = shift;

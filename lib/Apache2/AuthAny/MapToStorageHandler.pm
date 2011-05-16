@@ -3,7 +3,7 @@ package Apache2::AuthAny::MapToStorageHandler;
 use strict;
 
 use Apache2::Const -compile => qw(DECLINED OK);
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 sub handler {
     my $r = shift;

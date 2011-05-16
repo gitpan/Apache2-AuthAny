@@ -7,7 +7,7 @@ use Data::Dumper;
 use Digest::MD5 qw(md5_hex);
 
 my $dbHandle;
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 sub new {
     my $class = shift;

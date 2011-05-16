@@ -5,7 +5,7 @@ use Apache2::Const -compile => qw(OK DECLINED HTTP_UNAUTHORIZED);
 use Data::Dumper qw(Dumper);
 
 use Apache2::AuthAny::DB qw();
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 sub handler {
     my $r = shift;

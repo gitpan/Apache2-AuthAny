@@ -13,11 +13,11 @@ Apache2::AuthAny - Authentication with any provider or mechanism
 
 =head1 VERSION
 
-Version 0.20
+Version 0.201
 
 =cut
 
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 =head1 SYNOPSIS
 

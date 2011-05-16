@@ -16,7 +16,7 @@ use Apache2::AuthAny::Cookie ();
 use Apache2::AuthAny::DB ();
 use Apache2::AuthAny::AuthUtil ();
 our $aaDB;
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 my @system_skip_auth = qw(/Shibboleth);
 

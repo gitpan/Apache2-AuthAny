@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Apache2-AuthAny
-version:             0.20
+version:             0.201
 abstract:            Authentication with any provider or mechanism
 license:             ~
 author:              

@@ -8,7 +8,7 @@ use CGI::Cookie ();
 
 use Apache2::AuthAny::DB ();
 our $aaDB;
-our $VERSION = '0.20';
+our $VERSION = '0.201';
 
 sub goToGATE {
     my $r = shift;
